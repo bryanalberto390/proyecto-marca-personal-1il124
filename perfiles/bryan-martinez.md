@@ -1,4 +1,4 @@
-Perfil Profesional — Bryan Martinez
+Perfil — Bryan Martinez
 
  Información general
 
