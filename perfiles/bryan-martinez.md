@@ -38,6 +38,4 @@ Objetivos profesionales
 
 Proyectos destacados
 
-- [Sistema de módulos en Java](../proyectos/README.md)
-- [Portafolio de algoritmos](../proyectos/README.md)
-
+- UTP Academic Core (Sistema de Registro Estudiantil).
